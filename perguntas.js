@@ -34,3 +34,6 @@ criacartao (
     "sem ia no mundo",
     "A organização alertou que quase metade dos empregos em todo o mundo poderiam ser afetados. Enquanto a IA transforma as economias, criando uma variedade de oportunidades, também traz riscos de aprofundar as desigualdades. "
 )
+criacartao(
+    
+)
